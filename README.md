@@ -1,2 +1,2 @@
 # FileExplorer
-A File Explorer app developed using pure Node.js 
+A File Explorer app developed using Node.js 
